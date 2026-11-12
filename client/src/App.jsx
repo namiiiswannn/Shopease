@@ -152,7 +152,7 @@ function App() {
   }
 
   return (
-    <main className="min-h-screen bg-[#f1f2f4] px-4 py-6 text-slate-900 sm:px-5">
+    <main className="min-h-screen bg-[#f1f2f4] px-3 py-6 text-slate-900 sm:px-5">
       <div className="w-full">
         <header className="mb-4">
           <h1 className="text-xl font-bold tracking-tight">
